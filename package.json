@@ -1,0 +1,13 @@
+{
+  "name": "ai-code-reviewer",
+  "version": "1.0.0",
+  "description": "Simple AI code reviewer with an Express backend and static frontend.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
